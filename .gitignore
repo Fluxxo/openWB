@@ -20,3 +20,4 @@ __pycache__
 openwb.conf.*
 web/backup/*.tar.gz
 sed*
+openwb.conf
